@@ -5,7 +5,7 @@
 export default function Home() {
     return (
         <div>
-            
+            <h1>Discos de Vinil</h1>
         </div>
     );
 }
